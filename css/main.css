@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(253, 224, 229);
+}
+
+
+#header-baking{
+    text-align: center;
+    font-size: 25px;
+    
+}
+#logo{
+    font-family: 'Goudy Old Style',cursive;
+    font-size: 50px;
+    color: brown;
+    padding-bottom: 1px;
+    
+}
+#chefcap{
+    width: 6%;
+}
+sub{
+    font-size: 20px;
+}
+
+a{
+    text-align: center;
+	padding: 5px 0 0 30px;
+    margin: 20px 0 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    color: crimson;
+  
+}
+
+a:hover {
+    color: blue;
+  }
+
+
+#footer-baking{
+    font-family: cursive;
+    color: chocolate; 
+    line-height:1em;
+    text-align: center;
+       
+}
+.Intro-about-baking{
+    padding: 10px 0;
+    margin: 10px 100px 10px;
+    /* border:10px groove rgb(167, 63, 63); */
+    border:10px groove rgb(158, 93, 93);
+
+}
+.about-baking{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    line-height: 1.5em;
+    font: size 10;
+    float: right;
+    width: 65%;
+    background-color:rgb(243, 217, 221);
+    
+}
+
+img{
+    padding-left: 15px;
+    width: 30%;
+}
+
+.recipe-heading{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(90, 6, 6);
+    font-size: x-large;
+    line-height: 70px;
+   
+}
+
+.recipes-block{
+    font-family:'geneva';
+    line-height: 2em;
+    font-style: BOLD;
+    
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:-webkit-any-link {
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb {
+    background: red; 
+    border-radius: 10px;
+  }
